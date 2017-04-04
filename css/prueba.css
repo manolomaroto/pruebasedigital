@@ -49,3 +49,33 @@ table {
 
 /*  fin del reset */
 
+.wrap-body{
+	width: 900px;
+	margin: 0 auto;
+}
+
+.logo{
+	width: 114px;
+	margin: 0 auto;
+	padding: 30px 0;
+}
+
+.align-center{
+	
+}
+
+#cssmenu ul li a{
+	color: #000;
+	display: block;
+	padding: 3px;
+	text-decoration: none;
+}
+
+#cssmenu ul li{
+	float: left;
+	width: 6%;
+}
+
+#cssmenu ul{
+	overflow: hidden;
+}
